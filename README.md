@@ -2,9 +2,13 @@
 
 **Projeto acadêmico desenvolvido na disciplina de Construção de Software, para o curso de Sistemas de Informação na Universidade Estadual De Goiás**
 
-### :books: [Descrição do problema](Modelagem%20e%20requisitos/Descrição%20do%20problema.md)
-### :clipboard: [Lista de Requisitos](Modelagem%20e%20requisitos/Requisitos.md)
-### :framed_picture: [Protótipos de Tela](Modelagem%20e%20requisitos/Prototipos)
+- :books: [Acompanhar projeto](https://github.com/orgs/DLL-S/projects/1)
+- :eyes: [Documento de visão](Modelagem%20e%20requisitos/Descrição%20do%20problema.md)
+- :clipboard: [Lista de Requisitos](Modelagem%20e%20requisitos/Requisitos.md)
+- :jigsaw: [Diagrama de classes](Modelagem%20e%20requisitos/Diagrama%20de%20classes/Diagrama%20de%20classes%20-%20PeçaCerta.png)
+- :game_die: [Modelo lógico BD](Modelagem%20e%20requisitos/Modelagem%20BD/Modelo%20lógico/Diagrama%20ER.jpeg)
+- :scroll: [Modelo físico BD](Modelagem%20e%20requisitos/Modelagem%20BD/Modelo%20físico)
+- :framed_picture: [Protótipos de Tela](Modelagem%20e%20requisitos/Prototipos)
 
 ## Descrição
 A PeçaCerta – Auto Peças, é uma revenda de peças para veículos pequenos, médios e grandes entre veículos de passeio e de trabalho. Com mais de 20 anos de mercado, possui uma vasta gama de produtos em seu estoque, das mais variadas marcas e modelos existentes. Seus clientes são consumidores à varejo em busca de peças para conserto de veículos e até mesmo grandes empresas que buscam peças para repor peças defeituosas da sua frota de veículos.
